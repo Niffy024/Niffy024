@@ -14,7 +14,7 @@ I'm passionate about building and deploying web applications. With a strong foun
 
 - **Languages:** JavaScript, C++, Java, C#
 - **Backend:** Node.js, Express.js
-- **Frontend:** HTML, CSS, jQuery
+- **Frontend:** HTML, CSS, jQuery, Bootstrap
 - **Databases:** PostgreSQL, MySQL, SQLite
 - **Tools & Platforms:** Git
 
