@@ -50,7 +50,7 @@ For more details, visit my [repositories](https://github.com/niffy024?tab=reposi
 
 ### 📫 Contact Me
 
-- **Email:** [niffyjay2001@gmail.com](mailto:niffycodes@gmail.com)
+- **Email:** [niffycodes@gmail.com](mailto:niffycodes@gmail.com)
 - **LinkedIn:** [Abdulahi Ogunlesi]([https://www.linkedin.com/in/abdulahi-ogunlesi/](https://www.linkedin.com/in/abdulahi-ogunlesi-aa1b99300/))
 - **GitHub:** [niffy024](https://github.com/niffy024)
 
