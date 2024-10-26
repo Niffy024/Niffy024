@@ -51,7 +51,7 @@ For more details, visit my [repositories](https://github.com/niffy024?tab=reposi
 ### 📫 Contact Me
 
 - **Email:** [niffycodes@gmail.com](mailto:niffycodes@gmail.com)
-- **LinkedIn:** (https://www.linkedin.com/in/abdulahi-ogunlesi/](https://www.linkedin.com/in/abdulahi-ogunlesi-aa1b99300/)
+- **LinkedIn:** https://www.linkedin.com/in/abdulahi-ogunlesi/](https://www.linkedin.com/in/abdulahi-ogunlesi-aa1b99300/)
 - **GitHub:** [niffy024](https://github.com/niffy024)
 
 ---
